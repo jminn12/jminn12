@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-github-profile.vercel.app/api/view?uid=ufysj1ypsfeezzzd47jjt7d6k&cover_image=true&theme=novatorem" alt="jminn12 Spotify Playing" width="350" />](https://open.spotify.com/user/ufysj1ypsfeezzzd47jjt7d6)
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=ufysj1ypsfeezzzd47jjt7d6k&cover_image=true&theme=novatorem" alt="jminn12 Spotify Playing" width="350" />](https://open.spotify.com/user/ufysj1ypsfeezzzd47jjt7d6k)
 
 ### Connect with me:
 
