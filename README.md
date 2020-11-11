@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently really new to coding ✨
 - 😊 I’m looking to start my first job soon 
-- 🥅 2020 Goals: Start to contribute to Open Source projects
+- 🥅 2020 Goals: Learn basic coding and start to contribute to Open Source projects
 - ⚡ Fun fact: I love to play basketball and 🏃
 
 ### Spotify Playing 🎧
